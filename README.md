@@ -1,21 +1,6 @@
 ﻿# SUPER PARCEL LOGISTICS
 
 Official website and direct booking portal for **Super Parcel Logistics**, providing commercial road, rail, and air freight transportation coordinating across strategic commercial trade corridors.
-
----
-
-## Brand Information
-- **Company Name:** SUPER PARCEL LOGISTICS
-- **Operating Facility:** Seema Manzil, 26/4, 3rd Main Rd, 4N Block, Ramchandrapuram, Srirampura, Bengaluru, Karnataka 560021
-- **Official Phone / WhatsApp:** +91 8217696321
-- **Verified Branch Network:**
-  - Bengaluru: +91 8217696321
-  - Mumbai: +91 7022374036
-  - Kolkata: +91 8217696321
-  - Pune: +91 8217696321
-  - Jaipur: +91 8058304045
-  - Delhi: +91 9187708758
-
 ---
 
 ## Core Features
