@@ -17,11 +17,6 @@ export interface ServiceItem {
   transitModes: ('Road' | 'Rail' | 'Air')[];
 }
 
-export interface ClientBrand {
-  name: string;
-  sector: string;
-}
-
 export const COMPANY_INFO = {
   name: "SUPER PARCEL LOGISTICS",
   shortName: "SUPER PARCEL LOGISTICS",
@@ -42,16 +37,6 @@ export const COMPANY_INFO = {
   operatingHours: "Monday – Saturday: 09:00 AM – 08:30 PM",
   googleMapsDirectUrl: "https://maps.google.com/?q=Seema+Manzil,+26/4,+3rd+Main+Rd,+4N+Block,+Ramchandrapuram,+Srirampura,+Bengaluru,+Karnataka+560021"
 };
-
-// ONLY the 6 verified client names requested
-export const CLIENT_BRANDS: ClientBrand[] = [
-  { name: "RELIANCE", sector: "Retail & Enterprise" },
-  { name: "LIFESTYLE", sector: "Department Stores" },
-  { name: "SHOPPERS STOP", sector: "Fashion & Retail" },
-  { name: "NOKIA", sector: "Telecom & Hardware" },
-  { name: "HMD", sector: "Mobile Devices" },
-  { name: "FLIPKART", sector: "Commercial Supply Chain" },
-];
 
 // STRICT 6 VERIFIED LOCATIONS (Nothing else)
 export const LOCATIONS: LocationItem[] = [

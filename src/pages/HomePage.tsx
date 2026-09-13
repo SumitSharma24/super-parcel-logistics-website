@@ -12,7 +12,6 @@ import {
   LOCATIONS
 } from '../data/company';
 import { MultiModalShowcase } from '../components/MultiModalShowcase';
-import { BrandsDeliveredTo } from '../components/BrandsDeliveredTo';
 
 export const HomePage: React.FC = () => {
   return (
@@ -227,10 +226,6 @@ export const HomePage: React.FC = () => {
         </div>
       </section>
 
-      {/* ========================================================
-          SECTION 05: BRANDS WE'VE DELIVERED TO
-         ======================================================== */}
-      <BrandsDeliveredTo />
 
       {/* ========================================================
           SECTION 06: LOGISTICS ENVIRONMENT / CLOSING CTA (H06)
