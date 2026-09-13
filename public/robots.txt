@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://super-parcel-logistics-website.vercel.app/sitemap.xml
 Sitemap: https://superparcel.in/sitemap.xml
